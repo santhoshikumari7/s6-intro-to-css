@@ -1,0 +1,185 @@
+#indexbody{
+ background-color: aquamarine;
+}
+
+#mainheading{
+ background-color: blueviolet;
+ color: beige;
+ text-align: center;
+ font-size: 3rem;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ border-radius: 20px;
+ box-shadow: 10px 10px 10px black;
+ text-shadow: 20px 20px 20px black;
+ }
+ #sreeleelaheading{
+    text-align: center;
+    color: darkmagenta;
+    font-size: 2rem;
+    background-color: chartreuse;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px brown;
+    text-shadow: 10px 10px 10px black;
+ }
+ #sreeleeladesc{
+    background-color: darkorange;
+    font-size: 1rem;
+    text-align: justify;
+ }
+ 
+
+ #anupamaheading{
+    text-align: center;
+    color: darkgreen;
+    font-size: 2rem;
+    background-color: chartreuse;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px brown;
+    text-shadow: 10px 10px 10px black;
+
+ }
+
+ #anupamadesc{
+    background-color: chocolate;
+    font-size: 1rem;
+    text-align: center;
+ }
+
+
+ #kritiheading{
+    background-color: pink;
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 5px 5px 5px black;
+ }
+
+#kritidesc{
+    background-color: chocolate;
+    text-align: left;
+    font-size: 1rem;
+}
+
+
+#rashiheading{
+    background-color: darkgoldenrod;
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px brown;
+    text-shadow: 5px 5px 5px black;
+}
+#rashidesc{
+    background-color: chocolate;
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+#mainheading{
+   background-color: crimson;
+   color: aqua;
+}
+
+#viswakheading{
+   background-color: chartreuse;
+   color: azure;
+   text-align: center;
+   text-shadow: 20px;
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 10px blue;
+   text-shadow: 5px 5px 5px black;
+   border-radius: 20px;
+     }
+#viswakdesc{
+   background-color: darkgoldenrod;
+   text-align: left;
+   font-size: 1rem;
+}
+#viswakimage{
+   width: 400px;
+}
+
+
+
+#ramheading{
+   background-color: fuchsia;
+   color: black;
+   text-align: center;
+   text-shadow: 20px;
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 10px blue;
+   text-shadow: 5px 5px 5px black;
+   border-radius: 20px;
+     }
+#ramdesc{
+   background-color: darkgoldenrod;
+   text-align: center;
+   font-size: 1rem;
+}
+#ramimage{
+   width: 400px;
+}
+
+
+
+#naniheading{
+   background-color: royalblue;
+   color: brown;
+   text-align: center;
+   text-shadow: 20px;
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 10px blue;
+   text-shadow: 5px 5px 5px black;
+   border-radius: 20px;
+     }
+#nanidesc{
+   background-color: darkgoldenrod;
+   text-align: right;
+   font-size: 1rem;
+}
+#naniimage{
+   width: 400px;
+}
+
+
+
+#alluarjunheading{
+   background-color: yellow;
+   color: darkslategray;
+   text-align: center;
+   text-shadow: 20px;
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   box-shadow: 10px 10px 10px blue;
+   text-shadow: 5px 5px 5px black;
+   border-radius: 20px;
+     }
+#alluarjundesc{
+   background-color: darkgoldenrod;
+   text-align: justify;
+   font-size: 1rem;
+}
+#alluarjunimage{
+   width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
